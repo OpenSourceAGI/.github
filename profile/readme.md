@@ -1,6 +1,4 @@
 <p align="center">
-    <img src="https://i.imgur.com/4UC1Ixq.png" />
-<br />
     <a href="https://deepwiki.com/OpenSourceAGI/ai-broker-investing-agent"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
     <a href="https://docs.autoinvestment.broker/"><img src="https://img.shields.io/badge/Docs-blue?logo=ReadTheDocs&logoColor=white" alt="Documentation" /></a>
     <a href="https://autoinvestment.broker/api/docs"><img src="https://img.shields.io/badge/API-blue?logo=fastapi&logoColor=white" alt="API badge"></a>
@@ -22,6 +20,8 @@
     <a href="https://www.tradingview.com/ideas/"><img src="https://img.shields.io/badge/📊_TradingView-131722?style=for-the-badge&logo=tradingview&logoColor=white" alt="TradingView"></a>
     <br />
     <a href="https://play.google.com/store/apps/details?id=com.autoinvestment.broker.app"><img src="apps/ai-broker-web/public/images/download-google-play.png" alt="Get it on Google Play" height="60" /></a>
+    
+<br /> <img src="https://i.imgur.com/4UC1Ixq.png" />
 </p>
 
 <p align="center">
