@@ -23,7 +23,9 @@
     
 <br /> <img src="https://i.imgur.com/4UC1Ixq.png" />
 </p>
-
+<br />
+<br />
+<br />
 <p align="center">
     <a href="https://doi.org/10.5281/zenodo.20951725"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.20951725.svg" alt="DOI"></a>
     <a href="https://deepwiki.com/OpenSourceAGI/qwksearch-research-agent"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
