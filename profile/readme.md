@@ -121,7 +121,7 @@
 <!-- template-git-repo:badges:end -->
 
 <p align="center">
-    <img width="600px" src="https://i.imgur.com/qyHaHQB.jpeg" />
+    <img width="600px" src="https://i.imgur.com/yULu4VG.png" />
 </p><p align="center">
   <a href="https://doi.org/10.5281/zenodo.20676952"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.20676952.svg" alt="DOI"></a>
  <a href="https://deepwiki.com/opensourceagi/rights-institute"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
