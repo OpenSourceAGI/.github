@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://i.imgur.com/4UC1Ixq.png" />
+    <img src="https://i.imgur.com/4UC1Ixq.png"  width="750px" />
 <br />
     <a href="https://deepwiki.com/OpenSourceAGI/ai-broker-investing-agent"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
     <a href="https://docs.autoinvestment.broker/"><img src="https://img.shields.io/badge/Docs-blue?logo=ReadTheDocs&logoColor=white" alt="Documentation" /></a>
@@ -28,7 +28,7 @@
 
 <br />
 <br />
-    <img  src="https://i.imgur.com/ZMY9Xy7.png" width="800px" />
+    <img  src="https://i.imgur.com/ZMY9Xy7.png" width="750px" />
 <br />
 <p align="center">
     <a href="https://doi.org/10.5281/zenodo.20951725"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.20951725.svg" alt="DOI"></a>
@@ -54,7 +54,7 @@
  </p>
  
 <p align="center">
-    <img  src="https://i.imgur.com/QL2mfLO.png" />
+    <img width="750px"  src="https://i.imgur.com/QL2mfLO.png" />
         <br />
     <a href="https://deepwiki.com/OpenSourceAGI/dev-tools-starter-agent"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki" /></a>
     <a href="https://starterdocs.vtempest.workers.dev"><img height="20px" src="https://img.shields.io/badge/App-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
@@ -89,7 +89,7 @@
 <!-- template-git-repo:badges:start -->
 <p align="center">
     <br />
-        <img src="https://i.imgur.com/xzFQmrD.jpeg" />
+        <img width="750px" src="https://i.imgur.com/xzFQmrD.jpeg" />
     <br />
     <a href="https://deepwiki.com/OpenSourceAGI/GRAB-URL"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki" /></a>
     <a href="https://grab.js.org"><img src="https://img.shields.io/badge/Docs-blue?logo=ReadTheDocs&logoColor=white" alt="Documentation" /></a>
@@ -121,7 +121,7 @@
 <!-- template-git-repo:badges:end -->
 
 <p align="center">
-    <img width="600px" src="https://i.imgur.com/yULu4VG.png" />
+    <img width="750px" src="https://i.imgur.com/yULu4VG.png" />
 </p><p align="center">
   <a href="https://doi.org/10.5281/zenodo.20676952"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.20676952.svg" alt="DOI"></a>
  <a href="https://deepwiki.com/opensourceagi/rights-institute"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
