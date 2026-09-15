@@ -24,13 +24,11 @@
     <a href="https://www.tradingview.com/ideas/"><img src="https://img.shields.io/badge/📊_TradingView-131722?style=for-the-badge&logo=tradingview&logoColor=white" alt="TradingView"></a>
 <br />
     <a href="https://play.google.com/store/apps/details?id=com.autoinvestment.broker.app"><img src="apps/ai-broker-web/public/images/download-google-play.png" alt="Get it on Google Play" height="60" /></a>
-</p>
 
 <br />
 <br />
     <img  src="https://i.imgur.com/ZMY9Xy7.png" width="750px" />
 <br />
-<p align="center">
     <a href="https://doi.org/10.5281/zenodo.20951725"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.20951725.svg" alt="DOI"></a>
     <a href="https://deepwiki.com/OpenSourceAGI/qwksearch-research-agent"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
     <a href="https://qwksearch.com/api/docs"><img src="https://img.shields.io/badge/Docs-blue?logo=ReadTheDocs&logoColor=white" alt="Documentation" /></a>
@@ -89,7 +87,7 @@
 <!-- template-git-repo:badges:start -->
 <p align="center">
     <br />
-        <img width="750px" src="https://i.imgur.com/xzFQmrD.jpeg" />
+        <img width="750px" src="https://i.imgur.com/HVLYLqR.png" />
     <br />
     <a href="https://deepwiki.com/OpenSourceAGI/GRAB-URL"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki" /></a>
     <a href="https://grab.js.org"><img src="https://img.shields.io/badge/Docs-blue?logo=ReadTheDocs&logoColor=white" alt="Documentation" /></a>
