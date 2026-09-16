@@ -13,7 +13,6 @@
     <a href="https://app.codecov.io/gh/OpenSourceAGI/ai-broker-investing-agent"><img src="https://codecov.io/gh/OpenSourceAGI/ai-broker-investing-agent/branch/main/graph/badge.svg" alt="Coverage" /></a>
     <a href="https://github.com/OpenSourceAGI/ai-broker-investing-agent/actions/workflows/test.yml"><img src="https://github.com/OpenSourceAGI/ai-broker-investing-agent/actions/workflows/test.yml/badge.svg" alt="Tests" /></a>
     <a href="https://github.com/OpenSourceAGI/ai-broker-investing-agent/discussions"><img alt="GitHub Discussions" src="https://img.shields.io/github/discussions/OpenSourceAGI/ai-broker-investing-agent" /></a>
-    <a href="https://codespaces.new/OpenSourceAGI/ai-broker-investing-agent"><img src="https://github.com/codespaces/badge.svg" height="20" alt="Open in GitHub Codespaces" /></a>
 <br />
     <a href="https://discord.gg/SJdBqBz3tV"><img src="https://img.shields.io/discord/1110227955554209923.svg?label=Chat&logo=Discord&colorB=7289da&style=flat" alt="Join Discord" /></a>
     <a href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" /></a>
