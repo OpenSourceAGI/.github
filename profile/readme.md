@@ -1,5 +1,5 @@
 <p align="center">
-    <img  src="https://i.imgur.com/ZMY9Xy7.png" width="750px" />
+    <a href="https://github.com/OpenSourceAGI/qwksearch-research-agent"><img  src="https://i.imgur.com/ZMY9Xy7.png" width="750px" /></a>
     <br />
    <a href="https://doi.org/10.5281/zenodo.20320687"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.20320687.svg" alt="DOI" /></a>
     <a href="https://deepwiki.com/OpenSourceAGI/qwksearch-research-agent"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki" /></a>
@@ -29,7 +29,8 @@
 <img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white" alt="Claude" /> <img src="https://img.shields.io/badge/Bun-14151A?logo=bun&logoColor=white" alt="Bun" />  <img src="https://img.shields.io/badge/Next.js-black?logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflareworkers&logoColor=white" alt="Cloudflare Workers" /> <img src="https://img.shields.io/badge/shadcn%2Fui-000000?logo=shadcnui&logoColor=white" alt="shadcn/ui" /> <img src="https://img.shields.io/badge/better--auth-000000" alt="better-auth" />  <img src="https://img.shields.io/badge/Fumadocs-000000" alt="Fumadocs" /><a href="https://grab.js.org"><img src="https://img.shields.io/badge/%F0%9F%91%8F%20grab--url-beige" alt="grab.js.org" /></a>
     <br />
     <br />
-    <img src="https://i.imgur.com/4UC1Ixq.png"  width="750px" />
+    <a href="https://github.com/OpenSourceAGI/ai-broker-investing-agent">
+    <img src="https://i.imgur.com/4UC1Ixq.png"  width="750px" /></a>
 <br />
     <a href="https://deepwiki.com/OpenSourceAGI/ai-broker-investing-agent"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
     <a href="https://docs.autoinvestment.broker/"><img src="https://img.shields.io/badge/Docs-blue?logo=ReadTheDocs&logoColor=white" alt="Documentation" /></a>
@@ -53,11 +54,10 @@
     <a href="https://www.tradingview.com/ideas/"><img src="https://img.shields.io/badge/📊_TradingView-131722?style=for-the-badge&logo=tradingview&logoColor=white" alt="TradingView"></a>
 <br />
     <a href="https://play.google.com/store/apps/details?id=com.autoinvestment.broker.app"><img src="apps/ai-broker-web/public/images/download-google-play.png" alt="Get it on Google Play" height="60" /></a>
-
-<br />
 <br />
     <br />
-    <img width="750px"  src="https://i.imgur.com/QL2mfLO.png" />
+    <a href="https://github.com/OpenSourceAGI/dev-tools-starter-agent">
+    <img width="750px"  src="https://i.imgur.com/QL2mfLO.png" /></a>
         <br />
     <a href="https://deepwiki.com/OpenSourceAGI/dev-tools-starter-agent"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki" /></a>
     <a href="https://starterdocs.vtempest.workers.dev"><img height="20px" src="https://img.shields.io/badge/App-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
@@ -86,13 +86,12 @@
     <a href="https://codespaces.new/OpenSourceAGI/dev-tools-starter-agent"><img height="20px" src="https://github.com/codespaces/badge.svg" alt="Open in GitHub Codespaces" /></a>
     <a href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request"><img src="https://img.shields.io/badge/PRs--welcome-brightgreen" alt="PRs Welcome" /></a>
     <a href="https://github.com/OpenSourceAGI/dev-tools-starter-agent/blob/master/LICENSE.md"><img src="https://img.shields.io/github/license/OpenSourceAGI/dev-tools-starter-agent" alt="License" /></a>
-    <img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white" alt="Claude" /> <img src="https://img.shields.io/badge/Bun-14151A?logo=bun&logoColor=white" alt="Bun" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Next.js-black?logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=white" alt="Tauri" /> <img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?logo=cloudflareworkers&logoColor=white" alt="Cloudflare Workers" /> <img src="https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=white" alt="Hono" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/shadcn%2Fui-000000?logo=shadcnui&logoColor=white" alt="shadcn/ui" /> <img src="https://img.shields.io/badge/Drizzle%20ORM-C5F74F?logo=drizzle&logoColor=white" alt="Drizzle ORM" /> <img src="https://img.shields.io/badge/better--auth-000000" alt="better-auth" /> <img src="https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white" alt="Stripe" /> <img src="https://img.shields.io/badge/Vercel%20AI%20SDK-black?logo=vercel&logoColor=white" alt="Vercel AI SDK" /> <img src="https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=white" alt="Zod" /> <img src="https://img.shields.io/badge/Fumadocs-000000" alt="Fumadocs" /> <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" alt="Vite" /> <img src="https://img.shields.io/badge/Turborepo-EF4444?logo=turborepo&logoColor=white" alt="Turborepo" /> <img src="https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white" alt="Vitest" /> <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white" alt="Jest" />
-</p>
-
-<!-- template-git-repo:badges:start -->
-<p align="center">
+    <img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white" alt="Claude" /> <img src="https://img.shields.io/badge/Bun-14151A?logo=bun&logoColor=white" alt="Bun" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Next.js-black?logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=white" alt="Tauri" /> <img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?logo=cloudflareworkers&logoColor=white" alt="Cloudflare Workers" /> <img src="https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=white" alt="Hono" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/shadcn%2Fui-000000?logo=shadcnui&logoColor=white" alt="shadcn/ui" /> <img src="https://img.shields.io/badge/Drizzle%20ORM-C5F74F?logo=drizzle&logoColor=white" alt="Drizzle ORM" /> <img src="https://img.shields.io/badge/better--auth-000000" alt="better-auth" /> <img src="https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white" alt="Stripe" /> <img src="https://img.shields.io/badge/Vercel%20AI%20SDK-black?logo=vercel&logoColor=white" alt="Vercel AI SDK" /> <img src="https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=white" alt="Zod" /> <img src="https://img.shields.io/badge/Fumadocs-000000" alt="Fumadocs" /> 
     <br />
-        <img width="750px" src="https://i.imgur.com/HVLYLqR.png" />
+    <br />
+    <br />
+    <a href="https://github.com/OpenSourceAGI/GRAB-URL">
+        <img width="750px" src="https://i.imgur.com/HVLYLqR.png" /></a>
     <br />
     <a href="https://deepwiki.com/OpenSourceAGI/GRAB-URL"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki" /></a>
     <a href="https://grab.js.org"><img src="https://img.shields.io/badge/Docs-blue?logo=ReadTheDocs&logoColor=white" alt="Documentation" /></a>
@@ -120,11 +119,11 @@
     <a href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request"><img src="https://img.shields.io/badge/PRs--welcome-brightgreen" alt="PRs Welcome" /></a>
     <br />
     <img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white" alt="Claude" /> <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white" alt="npm" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=white" alt="React" />     <a href="https://grab.js.org"><img src="https://i.imgur.com/mbZKlD0.png" alt="grab.js.org" /></a>
-</p>
-<!-- template-git-repo:badges:end -->
-
-<p align="center">
-    <img width="750px" src="https://i.imgur.com/yULu4VG.png" />
+    <br />
+    <br />
+    <br />
+    <a href="https://github.com/OpenSourceAGI/rights-institute">
+    <img width="750px" src="https://i.imgur.com/yULu4VG.png" /></a>
 </p><p align="center">
   <a href="https://doi.org/10.5281/zenodo.20676952"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.20676952.svg" alt="DOI"></a>
  <a href="https://deepwiki.com/opensourceagi/rights-institute"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
