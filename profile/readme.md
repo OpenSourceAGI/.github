@@ -1,4 +1,34 @@
 <p align="center">
+    <img  src="https://i.imgur.com/ZMY9Xy7.png" width="750px" />
+    <br />
+   <a href="https://doi.org/10.5281/zenodo.20320687"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.20320687.svg" alt="DOI" /></a>
+    <a href="https://deepwiki.com/OpenSourceAGI/qwksearch-research-agent"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki" /></a>
+    <a href="https://qwksearch.com"><img height="20px" src="https://img.shields.io/badge/App-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+    <a href="https://qwksearch.com/api"><img src="https://img.shields.io/badge/Docs-blue?logo=ReadTheDocs&logoColor=white" alt="Documentation" /></a>
+    <a href="https://qwksearch.com/api"><img src="https://img.shields.io/badge/API-blue?logo=fastapi&logoColor=white" alt="API" /></a>
+    <a href="https://youtu.be/DzykBAdrw6s"><img height="20px" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+    <a href="https://deploy.workers.cloudflare.com/?url=https://github.com/OpenSourceAGI/qwksearch-research-agent"><img height="24px" src="https://deploy.workers.cloudflare.com/button" alt="Deploy to Cloudflare Workers" /></a>
+    <br />
+    <a href="https://github.com/OpenSourceAGI/qwksearch-research-agent/stargazers"><img src="https://img.shields.io/github/stars/OpenSourceAGI/qwksearch-research-agent" alt="GitHub Stars" /></a>
+    <a href="https://www.npmjs.com/package/qwksearch-api-client"><img src="https://img.shields.io/npm/dm/qwksearch-api-client.svg" alt="NPM Monthly Downloads" /></a>
+    <a href="https://www.npmjs.com/package/qwksearch-api-client"><img src="https://img.shields.io/npm/v/qwksearch-api-client.svg" alt="npm version" /></a>
+    <a href="https://www.npmjs.com/package/qwksearch-api-client"><img src="https://img.shields.io/npm/dt/qwksearch-api-client.svg" alt="NPM Total Downloads" /></a>
+    <a href="https://packagephobia.com/result?p=qwksearch-api-client"><img src="https://packagephobia.com/badge?p=qwksearch-api-client" alt="Install size" /></a>
+    <a href="https://codecov.io/gh/OpenSourceAGI/qwksearch-research-agent"><img src="https://codecov.io/gh/OpenSourceAGI/qwksearch-research-agent/graph/badge.svg" alt="Coverage" /></a>
+    <a href="https://github.com/OpenSourceAGI/qwksearch-research-agent/actions/workflows/test-web-api.yml"><img src="https://github.com/OpenSourceAGI/qwksearch-research-agent/actions/workflows/test-web-api.yml/badge.svg?branch=master" alt="CI status" /></a>
+    <br />
+       <a href="https://github.com/OpenSourceAGI/qwksearch-research-agent/graphs/contributors"><img src="https://img.shields.io/github/commit-activity/m/OpenSourceAGI/qwksearch-research-agent" alt="Commit activity" /></a>
+    <a href="https://github.com/OpenSourceAGI/qwksearch-research-agent/commits/master/"><img src="https://img.shields.io/github/last-commit/OpenSourceAGI/qwksearch-research-agent.svg" alt="GitHub last commit" /></a>
+    <a href="https://github.com/OpenSourceAGI/qwksearch-research-agent/graphs/contributors"><img src="https://img.shields.io/github/contributors/OpenSourceAGI/qwksearch-research-agent" alt="Contributors" /></a>
+    <img src="https://img.shields.io/badge/%EB%AA%A8%20lines-17k-yellow" />
+    <a href="https://github.com/OpenSourceAGI/qwksearch-research-agent/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed/OpenSourceAGI/qwksearch-research-agent?logo=github&label=PRs%20merged&color=8957e5" alt="Merged Pull Requests" /></a>
+    <a href="https://discord.gg/SJdBqBz3tV"><img src="https://img.shields.io/discord/1110227955554209923.svg?label=Chat&logo=Discord&colorB=7289da&style=flat" alt="Join Discord" /></a>
+    <br />
+    <a href="https://stackblitz.com/github/OpenSourceAGI/qwksearch-research-agent/tree/master/packages/qwksearch-api-client"><img height="20px" src="https://developer.stackblitz.com/img/open_in_stackblitz.svg" alt="Open in StackBlitz" /></a>
+        <a href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" /></a>
+<img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white" alt="Claude" /> <img src="https://img.shields.io/badge/Bun-14151A?logo=bun&logoColor=white" alt="Bun" />  <img src="https://img.shields.io/badge/Next.js-black?logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflareworkers&logoColor=white" alt="Cloudflare Workers" /> <img src="https://img.shields.io/badge/shadcn%2Fui-000000?logo=shadcnui&logoColor=white" alt="shadcn/ui" /> <img src="https://img.shields.io/badge/better--auth-000000" alt="better-auth" />  <img src="https://img.shields.io/badge/Fumadocs-000000" alt="Fumadocs" /><a href="https://grab.js.org"><img src="https://img.shields.io/badge/%F0%9F%91%8F%20grab--url-beige" alt="grab.js.org" /></a>
+    <br />
+    <br />
     <img src="https://i.imgur.com/4UC1Ixq.png"  width="750px" />
 <br />
     <a href="https://deepwiki.com/OpenSourceAGI/ai-broker-investing-agent"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
@@ -26,31 +56,7 @@
 
 <br />
 <br />
-    <img  src="https://i.imgur.com/ZMY9Xy7.png" width="750px" />
-<br />
-    <a href="https://doi.org/10.5281/zenodo.20951725"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.20951725.svg" alt="DOI"></a>
-    <a href="https://deepwiki.com/OpenSourceAGI/qwksearch-research-agent"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
-    <a href="https://qwksearch.com/api/docs"><img src="https://img.shields.io/badge/Docs-blue?logo=ReadTheDocs&logoColor=white" alt="Documentation" /></a>
-    <a href="https://qwksearch.com/api/docs"><img src="https://img.shields.io/badge/API-blue?logo=fastapi&logoColor=white" alt="API badge"></a>
-    <a href="https://youtu.be/DzykBAdrw6s" target="_blank" rel="noopener noreferrer"><img   height="20px" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"  /></a> 
-    <a href="https://deploy.workers.cloudflare.com/?url=https://github.com/OpenSourceAGI/qwksearch-research-agent" target="_blank" rel="noopener noreferrer">  <img    height="24px" src="https://deploy.workers.cloudflare.com/button" alt="Deploy to Cloudflare Workers" /></a> <a href="https://github.com/vtempest/qwksearch-research-agent/discussions"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/vtempest/qwksearch-research-agent" /></a>
-<br />
-    <a href="https://www.npmjs.com/package/qwksearch-api-client"><img src="https://img.shields.io/npm/dm/qwksearch-api-client.svg" alt="NPM Monthly Downloads"></a>
-        <a href="https://codecov.io/gh/OpenSourceAGI/qwksearch-research-agent"><img src="https://codecov.io/gh/OpenSourceAGI/qwksearch-research-agent/graph/badge.svg" alt="Coverage" /></a>
-    <a href="https://github.com/OpenSourceAGI/qwksearch-research-agent/graphs/contributors" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/vtempest/qwksearch-research-agent" /></a>
-     <a href="https://github.com/OpenSourceAGI/qwksearch-research-agent/commits/master/"><img src="https://img.shields.io/github/last-commit/vtempest/qwksearch-research-agent.svg" alt="GitHub last commit" /></a>
-     <a href="https://github.com/OpenSourceAGI/qwksearch-research-agent/actions/workflows/test-web-api.yml"><img    src="https://github.com/OpenSourceAGI/qwksearch-research-agent/actions/workflows/test-web-api.yml/badge.svg"
-    alt="Test qwksearch-web status for master" /></a>
-     <br />
-    <a href="https://stats.uptimerobot.com/wgqOZtDv0i"><img src="https://img.shields.io/badge/Uptime-Status-brightgreen?logo=uptimerobot&logoColor=white" alt="Uptime Status" /></a>
-    <a href="https://www.npmjs.com/package/qwksearch-api-client"><img src="https://img.shields.io/npm/v/qwksearch-api-client.svg" alt="npm version"></a>
-    <a href="https://discord.gg/SJdBqBz3tV"><img src="https://img.shields.io/discord/1110227955554209923.svg?label=Chat&logo=Discord&colorB=7289da&style=flat" alt="Join Discord" /></a>
-    <a href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"
-            alt="PRs Welcome" /></a>
-<img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff" alt="Claude AI"> <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white" alt="Cloudflare">  <img src="https://img.shields.io/badge/Next.js-black" alt="Next.js" /> <a href="https://grab.js.org"><img src="https://i.imgur.com/n3uYGcI.png" height="20" alt="grab.js.org" /></a>
- </p>
- 
-<p align="center">
+    <br />
     <img width="750px"  src="https://i.imgur.com/QL2mfLO.png" />
         <br />
     <a href="https://deepwiki.com/OpenSourceAGI/dev-tools-starter-agent"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki" /></a>
@@ -137,14 +143,58 @@
     <a href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" /></a>
 <img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff" alt="Claude AI"> <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white" alt="Cloudflare"> <img src="https://img.shields.io/badge/Next.js-black" alt="Next.js" />
  </p>
-## 🖥️ Desktop App
 
-**QwkSearch Desktop** — Built with Tauri. Select any text on screen, press `` ` `` to instantly search the web without leaving your workflow.
+ 
 
-## 🧩 Browser Extension
+## 🏗️**FBEST**: *Functionally Brilliant, Elegantly Simple Tools.*
 
-**QwkSearch Tab Manager AI** — AI-powered tab manager that organizes, searches, and manages browser tabs intelligently.
+[![npm downloads](https://img.shields.io/npm/dm/chat-agent-toolkit.svg)](https://www.npmjs.com/package/chat-agent-toolkit) **chat-agent-toolkit**
+[![npm downloads](https://img.shields.io/npm/dm/domain-rank.svg)](https://www.npmjs.com/package/domain-rank) **domain-rank**
+[![npm downloads](https://img.shields.io/npm/dm/extract-pdf.svg)](https://www.npmjs.com/package/extract-pdf) **extract-pdf**
+[![npm downloads](https://img.shields.io/npm/dm/extract-webpage.svg)](https://www.npmjs.com/package/extract-webpage) **extract-webpage**
+[![npm downloads](https://img.shields.io/npm/dm/extract-youtube.svg)](https://www.npmjs.com/package/extract-youtube) **extract-youtube**
+[![npm downloads](https://img.shields.io/npm/dm/html-renderer-api.svg)](https://www.npmjs.com/package/html-renderer-api) **html-renderer-api**
+[![npm downloads](https://img.shields.io/npm/dm/investing.svg)](https://www.npmjs.com/package/investing) **investing**
+[![npm downloads](https://img.shields.io/npm/dm/notebooklm-api-client.svg)](https://www.npmjs.com/package/notebooklm-api-client) **notebooklm-api-client**
+[![npm downloads](https://img.shields.io/npm/dm/qwksearch-api-client.svg)](https://www.npmjs.com/package/qwksearch-api-client) **qwksearch-api-client**
+[![npm downloads](https://img.shields.io/npm/dm/qwksearch-mcp-server.svg)](https://www.npmjs.com/package/qwksearch-mcp-server) **qwksearch-mcp-server**
+[![npm downloads](https://img.shields.io/npm/dm/react-reason-editor.svg)](https://www.npmjs.com/package/react-reason-editor) **react-reason-editor**
+[![npm downloads](https://img.shields.io/npm/dm/react-reason-editor-sidebar.svg)](https://www.npmjs.com/package/react-reason-editor-sidebar) **react-reason-editor-sidebar**
+**render-url-to-html**
+[![npm downloads](https://img.shields.io/npm/dm/research-agent-ui.svg)](https://www.npmjs.com/package/research-agent-ui) **research-agent-ui**
+[![npm downloads](https://img.shields.io/npm/dm/search-web-api.svg)](https://www.npmjs.com/package/search-web-api) **search-web-api**
+**searxng-search-cloudflare**
+[![npm downloads](https://img.shields.io/npm/dm/shadcn-app-dock.svg)](https://www.npmjs.com/package/shadcn-app-dock) **shadcn-app-dock**
+[![npm downloads](https://img.shields.io/npm/dm/shadcn-settings.svg)](https://www.npmjs.com/package/shadcn-settings) **shadcn-settings**
+**language-model-training**
+[![npm downloads](https://img.shields.io/npm/dm/trending-news-api.svg)](https://www.npmjs.com/package/trending-news-api) **trending-news-api**
+[![npm downloads](https://img.shields.io/npm/dm/use-weather-forecast.svg)](https://www.npmjs.com/package/use-weather-forecast) **use-weather-forecast**
+[![npm downloads](https://img.shields.io/npm/dm/use-voice-control.svg)](https://www.npmjs.com/package/use-voice-control) **use-voice-control**
+**user-help-docs**
+[![npm downloads](https://img.shields.io/npm/dm/write-language.svg)](https://www.npmjs.com/package/write-language) **write-language**
 
-## 🧠 VS Code Extension
+[![npm downloads](https://img.shields.io/npm/dm/about-system.svg)](https://www.npmjs.com/package/about-system) **about-system-info**
+[![npm downloads](https://img.shields.io/npm/dm/api2ai.svg)](https://www.npmjs.com/package/api2ai) **api2ai-mcp-generator**
+**cloudflare-to-claude-fix**
+[![npm downloads](https://img.shields.io/npm/dm/code-tree-graph.svg)](https://www.npmjs.com/package/code-tree-graph) **code-tree-graph**
+[![npm downloads](https://img.shields.io/npm/dm/create-cloud-db.svg)](https://www.npmjs.com/package/create-cloud-db) **create-cloud-db**
+[![npm downloads](https://img.shields.io/npm/dm/create-starter-app.svg)](https://www.npmjs.com/package/create-starter-app) **create-starter-app**
+[![npm downloads](https://img.shields.io/npm/dm/export-svg-typescript.svg)](https://www.npmjs.com/package/export-svg-typescript) **export-svg-icons-typescript**
+[![npm downloads](https://img.shields.io/npm/dm/git0.svg)](https://www.npmjs.com/package/git0) **git0-repo-downloader**
+[![npm downloads](https://img.shields.io/npm/dm/manage-storage.svg)](https://www.npmjs.com/package/manage-storage) **manage-storage**
+**native-app-wrapper**
+[![npm downloads](https://img.shields.io/npm/dm/open-ready.svg)](https://www.npmjs.com/package/open-ready) **open-when-ready**
+[![npm downloads](https://img.shields.io/npm/dm/react-app-store-buttons.svg)](https://www.npmjs.com/package/react-app-store-buttons) **react-app-store-buttons**
+**server-shell-setup**
+[![npm downloads](https://img.shields.io/npm/dm/template-git-repo.svg)](https://www.npmjs.com/package/template-git-repo) **template-git-repo**
+[![npm downloads](https://img.shields.io/npm/dm/test-google-login.svg)](https://www.npmjs.com/package/test-google-login) **test-google-login**
+[![npm downloads](https://img.shields.io/npm/dm/verify-phone-sms.svg)](https://www.npmjs.com/package/verify-phone-sms) **verify-phone-sms**
+[![npm downloads](https://img.shields.io/npm/dm/setup-git-repo.svg)](https://www.npmjs.com/package/setup-git-repo) **setup-git-repo**
+**web2mobile-wrapper**
 
-**[QwkSearch for VS Code](apps/qwk-vscode-ext)** — Ask cited research questions from a sidebar in your editor, backed by the same QwkSearch API. Sign in with your account's API key, or use it signed-out as a guest.
+
+## 🖥️  Apps
+
+- **QwkSearch Desktop** — Built with Tauri. Select any text on screen, press `` ` `` to instantly search the web without leaving your workflow.
+- **QwkSearch Tab Manager AI** — AI-powered tab manager that organizes, searches, and manages browser tabs intelligently.
+- **[QwkSearch for VS Code](apps/qwk-vscode-ext)** — Ask cited research questions from a sidebar in your editor, backed by the same QwkSearch API. 
