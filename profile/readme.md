@@ -122,9 +122,8 @@
     <br />
     <br />
     <br />
-    <a href="https://github.com/OpenSourceAGI/rights-institute">
-    <img width="750px" src="https://i.imgur.com/yULu4VG.png" /></a>
-</p><p align="center">
+    <img  src="https://i.imgur.com/yULu4VG.png" />
+    <br />
   <a href="https://doi.org/10.5281/zenodo.20676952"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.20676952.svg" alt="DOI"></a>
  <a href="https://deepwiki.com/opensourceagi/rights-institute"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
     <a href="https://rights.institute/docs"><img src="https://img.shields.io/badge/Docs-blue?logo=ReadTheDocs&logoColor=white" alt="Documentation" /></a>
@@ -142,7 +141,7 @@
     <a href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" /></a>
 <img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff" alt="Claude AI"> <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white" alt="Cloudflare"> <img src="https://img.shields.io/badge/Next.js-black" alt="Next.js" />
  </p>
-
+ 
  
 
 ## 🏗️**FBEST**: *Functionally Brilliant, Elegantly Simple Tools.*
