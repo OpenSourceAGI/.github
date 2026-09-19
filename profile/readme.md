@@ -56,31 +56,26 @@
     <a href="https://play.google.com/store/apps/details?id=com.autoinvestment.broker.app"><img src="apps/ai-broker-web/public/images/download-google-play.png" alt="Get it on Google Play" height="60" /></a>
 <br />
     <br />
-    <a href="https://github.com/OpenSourceAGI/dev-tools-starter-agent">
-    <img width="750px"  src="https://i.imgur.com/QL2mfLO.png" /></a>
-        <br />
-    <a href="https://deepwiki.com/OpenSourceAGI/dev-tools-starter-agent"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki" /></a>
-    <a href="https://starterdocs.vtempest.workers.dev"><img height="20px" src="https://img.shields.io/badge/App-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-    <a href="https://starterdocs.vtempest.workers.dev"><img src="https://img.shields.io/badge/Docs-blue?logo=ReadTheDocs&logoColor=white" alt="Documentation" /></a>
+    <img  src="https://i.imgur.com/yULu4VG.png" />
     <br />
-    <a href="https://github.com/OpenSourceAGI/dev-tools-starter-agent/stargazers"><img src="https://img.shields.io/github/stars/OpenSourceAGI/dev-tools-starter-agent" alt="GitHub Stars" /></a>
-    <a href="https://www.npmjs.com/package/create-starter-app"><img src="https://img.shields.io/npm/dm/create-starter-app.svg" alt="NPM Monthly Downloads" /></a>
-    <a href="https://www.npmjs.com/package/create-starter-app"><img src="https://img.shields.io/npm/v/create-starter-app.svg" alt="npm version" /></a>
-    <a href="https://www.npmjs.com/package/create-starter-app"><img src="https://img.shields.io/npm/dt/create-starter-app.svg" alt="NPM Total Downloads" /></a>
-    <a href="https://www.npmjs.com/package/create-starter-app"><img src="https://img.shields.io/npm/types/create-starter-app" alt="TypeScript types" /></a>
-    <a href="https://packagephobia.com/result?p=create-starter-app"><img src="https://packagephobia.com/badge?p=create-starter-app" alt="Install size" /></a>
-    <a href="https://codecov.io/gh/OpenSourceAGI/dev-tools-starter-agent"><img src="https://codecov.io/gh/OpenSourceAGI/dev-tools-starter-agent/graph/badge.svg" alt="Coverage" /></a>
-    <a href="https://github.com/OpenSourceAGI/dev-tools-starter-agent/actions/workflows/tests.yml"><img src="https://github.com/OpenSourceAGI/dev-tools-starter-agent/actions/workflows/tests.yml/badge.svg?branch=master" alt="CI status" /></a>
+  <a href="https://doi.org/10.5281/zenodo.20676952"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.20676952.svg" alt="DOI"></a>
+ <a href="https://deepwiki.com/opensourceagi/rights-institute"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
+    <a href="https://rights.institute/docs"><img src="https://img.shields.io/badge/Docs-blue?logo=ReadTheDocs&logoColor=white" alt="Documentation" /></a>
+    <a href="https://rights.institute/docs"><img src="https://img.shields.io/badge/API-blue?logo=fastapi&logoColor=white" alt="API badge"></a>
+    <a href="https://youtu.be/YOUR_VIDEO_ID" target="_blank" rel="noopener noreferrer"><img height="20px" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+    <a href="https://deploy.workers.cloudflare.com/?url=https://github.com/opensourceagi/rights-institute" target="_blank" rel="noopener noreferrer"><img height="24px" src="https://deploy.workers.cloudflare.com/button" alt="Deploy to Cloudflare Workers" /></a>
+    <a href="https://github.com/opensourceagi/rights-institute/discussions"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/opensourceagi/rights-institute" /></a>
+<br />
+    <a href="https://github.com/opensourceagi/rights-institute/graphs/contributors" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/opensourceagi/rights-institute" /></a>
+    <a href="https://github.com/opensourceagi/rights-institute/commits/master/"><img src="https://img.shields.io/github/last-commit/opensourceagi/rights-institute.svg" alt="GitHub last commit" /></a>
+    <a href="https://stats.uptimerobot.com/V3HfCBM9de"><img src="https://img.shields.io/badge/Uptime-Status-brightgreen?logo=uptimerobot&logoColor=white" alt="Uptime Status" /></a>
     <br />
-    <a href="https://github.com/OpenSourceAGI/dev-tools-starter-agent/graphs/contributors"><img src="https://img.shields.io/github/contributors/OpenSourceAGI/dev-tools-starter-agent" alt="Contributors" /></a>
-    <a href="https://github.com/OpenSourceAGI/dev-tools-starter-agent/forks"><img src="https://img.shields.io/github/forks/OpenSourceAGI/dev-tools-starter-agent" alt="GitHub Forks" /></a>
-    <a href="https://github.com/OpenSourceAGI/dev-tools-starter-agent/issues"><img src="https://img.shields.io/github/issues/OpenSourceAGI/dev-tools-starter-agent?logo=github" alt="GitHub Issues" /></a>
-    <a href="https://github.com/OpenSourceAGI/dev-tools-starter-agent/pulls"><img src="https://img.shields.io/github/issues-pr/OpenSourceAGI/dev-tools-starter-agent?logo=github&label=PRs" alt="Open Pull Requests" /></a>
-    <a href="https://github.com/OpenSourceAGI/dev-tools-starter-agent/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed/OpenSourceAGI/dev-tools-starter-agent?logo=github&label=PRs%20merged&color=8957e5" alt="Merged Pull Requests" /></a>
-    <a href="https://github.com/OpenSourceAGI/dev-tools-starter-agent/discussions"><img src="https://img.shields.io/github/discussions/OpenSourceAGI/dev-tools-starter-agent" alt="GitHub Discussions" /></a>
-    <a href="https://github.com/OpenSourceAGI/dev-tools-starter-agent/graphs/contributors"><img src="https://img.shields.io/github/commit-activity/m/OpenSourceAGI/dev-tools-starter-agent" alt="Commit activity" /></a>
-    <a href="https://github.com/OpenSourceAGI/dev-tools-starter-agent/commits/master/"><img src="https://img.shields.io/github/last-commit/OpenSourceAGI/dev-tools-starter-agent.svg" alt="GitHub last commit" /></a>
+    <a href="https://codecov.io/gh/opensourceagi/rights-institute"><img src="https://codecov.io/gh/opensourceagi/rights-institute/graph/badge.svg" alt="Coverage" /></a>
     <a href="https://discord.gg/SJdBqBz3tV"><img src="https://img.shields.io/discord/1110227955554209923.svg?label=Chat&logo=Discord&colorB=7289da&style=flat" alt="Join Discord" /></a>
+    <a href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" /></a>
+<img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff" alt="Claude AI"> <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white" alt="Cloudflare"> <img src="https://img.shields.io/badge/Next.js-black" alt="Next.js" />
+    <br />
+    <br />
     <br />
     <a href="https://stackblitz.com/github/OpenSourceAGI/dev-tools-starter-agent/tree/master/packages/create-starter-app"><img height="20px" src="https://developer.stackblitz.com/img/open_in_stackblitz.svg" alt="Open in StackBlitz" /></a>
     <a href="https://codespaces.new/OpenSourceAGI/dev-tools-starter-agent"><img height="20px" src="https://github.com/codespaces/badge.svg" alt="Open in GitHub Codespaces" /></a>
