@@ -20,13 +20,15 @@
        <a href="https://github.com/OpenSourceAGI/qwksearch-research-agent/graphs/contributors"><img src="https://img.shields.io/github/commit-activity/m/OpenSourceAGI/qwksearch-research-agent" alt="Commit activity" /></a>
     <a href="https://github.com/OpenSourceAGI/qwksearch-research-agent/commits/master/"><img src="https://img.shields.io/github/last-commit/OpenSourceAGI/qwksearch-research-agent.svg" alt="GitHub last commit" /></a>
     <a href="https://github.com/OpenSourceAGI/qwksearch-research-agent/graphs/contributors"><img src="https://img.shields.io/github/contributors/OpenSourceAGI/qwksearch-research-agent" alt="Contributors" /></a>
-    <img src="https://img.shields.io/badge/%EB%AA%A8%20lines-17k-yellow" />
+   <a href="https://app.codecov.io/gh/OpenSourceAGI/ai-broker-investing-agent"><img src="https://img.shields.io/badge/%EB%AA%A8%20lines-17k-yellow" /></a>
     <a href="https://github.com/OpenSourceAGI/qwksearch-research-agent/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed/OpenSourceAGI/qwksearch-research-agent?logo=github&label=PRs%20merged&color=8957e5" alt="Merged Pull Requests" /></a>
     <a href="https://discord.gg/SJdBqBz3tV"><img src="https://img.shields.io/discord/1110227955554209923.svg?label=Chat&logo=Discord&colorB=7289da&style=flat" alt="Join Discord" /></a>
     <br />
     <a href="https://stackblitz.com/github/OpenSourceAGI/qwksearch-research-agent/tree/master/packages/qwksearch-api-client"><img height="20px" src="https://developer.stackblitz.com/img/open_in_stackblitz.svg" alt="Open in StackBlitz" /></a>
         <a href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" /></a>
 <img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white" alt="Claude" /> <img src="https://img.shields.io/badge/Bun-14151A?logo=bun&logoColor=white" alt="Bun" />  <img src="https://img.shields.io/badge/Next.js-black?logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflareworkers&logoColor=white" alt="Cloudflare Workers" /> <img src="https://img.shields.io/badge/shadcn%2Fui-000000?logo=shadcnui&logoColor=white" alt="shadcn/ui" /> <img src="https://img.shields.io/badge/better--auth-000000" alt="better-auth" />  <img src="https://img.shields.io/badge/Fumadocs-000000" alt="Fumadocs" /><a href="https://grab.js.org"><img src="https://img.shields.io/badge/%F0%9F%91%8F%20grab--url-beige" alt="grab.js.org" /></a>
+    <br />
+    <br />
     <br />
     <br />
     <a href="https://github.com/OpenSourceAGI/ai-broker-investing-agent">
@@ -42,6 +44,7 @@
     <a href="https://github.com/OpenSourceAGI/ai-broker-investing-agent/graphs/contributors" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/OpenSourceAGI/ai-broker-investing-agent" /></a>
     <a href="https://github.com/OpenSourceAGI/ai-broker-investing-agent/commits/main/"><img src="https://img.shields.io/github/last-commit/OpenSourceAGI/ai-broker-investing-agent.svg" alt="GitHub last commit" /></a>
     <a href="https://app.codecov.io/gh/OpenSourceAGI/ai-broker-investing-agent"><img src="https://codecov.io/gh/OpenSourceAGI/ai-broker-investing-agent/branch/main/graph/badge.svg" alt="Coverage" /></a>
+   <a href="https://app.codecov.io/gh/OpenSourceAGI/ai-broker-investing-agent"><img src="https://img.shields.io/badge/%EB%AA%A8%20lines-28k-yellow" /></a>
     <a href="https://github.com/OpenSourceAGI/ai-broker-investing-agent/actions/workflows/test.yml"><img src="https://github.com/OpenSourceAGI/ai-broker-investing-agent/actions/workflows/test.yml/badge.svg" alt="Tests" /></a>
     <a href="https://github.com/OpenSourceAGI/ai-broker-investing-agent/discussions"><img alt="GitHub Discussions" src="https://img.shields.io/github/discussions/OpenSourceAGI/ai-broker-investing-agent" /></a>
 <br />
@@ -56,7 +59,8 @@
     <a href="https://play.google.com/store/apps/details?id=com.autoinvestment.broker.app"><img src="apps/ai-broker-web/public/images/download-google-play.png" alt="Get it on Google Play" height="60" /></a>
 <br />
     <br />
-    <img  src="https://i.imgur.com/yULu4VG.png" />
+    <a href="https://github.com/OpenSourceAGI/rights-institute">
+    <img  src="https://i.imgur.com/yULu4VG.png" /></a>
     <br />
   <a href="https://doi.org/10.5281/zenodo.20676952"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.20676952.svg" alt="DOI"></a>
  <a href="https://deepwiki.com/opensourceagi/rights-institute"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
@@ -73,7 +77,7 @@
     <a href="https://codecov.io/gh/opensourceagi/rights-institute"><img src="https://codecov.io/gh/opensourceagi/rights-institute/graph/badge.svg" alt="Coverage" /></a>
     <a href="https://discord.gg/SJdBqBz3tV"><img src="https://img.shields.io/discord/1110227955554209923.svg?label=Chat&logo=Discord&colorB=7289da&style=flat" alt="Join Discord" /></a>
     <a href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" /></a>
-<img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff" alt="Claude AI"> <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white" alt="Cloudflare"> <img src="https://img.shields.io/badge/Next.js-black" alt="Next.js" />
+<img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff" alt="Claude AI"> <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white" alt="Cloudflare"> <img src="https://img.shields.io/badge/Next.js-black" alt="Next.js" /><a href="https://grab.js.org"><img src="https://img.shields.io/badge/%F0%9F%91%8F%20grab--url-beige" alt="grab.js.org" /></a>
     <br />
     <br />
     <br />
@@ -106,11 +110,12 @@
     <a href="https://discord.gg/SJdBqBz3tV"><img src="https://img.shields.io/discord/1110227955554209923.svg?label=Chat&logo=Discord&colorB=7289da&style=flat" alt="Join Discord" /></a>
     <a href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request"><img src="https://img.shields.io/badge/PRs--welcome-brightgreen" alt="PRs Welcome" /></a>
     <br />
-    <img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white" alt="Claude" /> <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white" alt="npm" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=white" alt="React" />     <a href="https://grab.js.org"><img src="https://i.imgur.com/mbZKlD0.png" alt="grab.js.org" /></a>
+    <img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white" alt="Claude" /> <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white" alt="npm" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=white" alt="React" /> <a href="https://grab.js.org"><img src="https://img.shields.io/badge/%F0%9F%91%8F%20grab--url-beige" alt="grab.js.org" /></a>
     <br />
     <br />
     <br />
-    <img  src="https://i.imgur.com/QL2mfLO.png" />
+    <a href="https://github.com/OpenSourceAGI/dev-tools-starter-agent">
+    <img  src="https://i.imgur.com/QL2mfLO.png" /></a>
         <br />
     <a href="https://deepwiki.com/OpenSourceAGI/dev-tools-starter-agent"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki" /></a>
     <a href="https://starterdocs.vtempest.workers.dev"><img height="20px" src="https://img.shields.io/badge/App-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
