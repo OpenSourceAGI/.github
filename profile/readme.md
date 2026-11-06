@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://github.com/OpenSourceAGI/qwksearch-research-agent"><img  src="https://i.imgur.com/ZMY9Xy7.png" width="750px" /></a>
+    <a href="https://github.com/OpenSourceAGI/qwksearch-research-agent"><img  src="https://i.imgur.com/uPtrGWH.png" width="750px" /></a>
     <br />
    <a href="https://doi.org/10.5281/zenodo.20320687"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.20320687.svg" alt="DOI" /></a>
     <a href="https://deepwiki.com/OpenSourceAGI/qwksearch-research-agent"><img src="https://img.shields.io/badge/Ask_DeepWiki-000?logo=github" alt="Ask DeepWiki" /></a>
@@ -32,7 +32,7 @@
     <br />
     <br />
     <a href="https://github.com/OpenSourceAGI/ai-broker-investing-agent">
-    <img src="https://i.imgur.com/4UC1Ixq.png"  width="750px" /></a>
+    <img src="https://i.imgur.com/vjoiEdl.png"  width="750px" /></a>
 <br />
     <a href="https://deepwiki.com/OpenSourceAGI/ai-broker-investing-agent"><img src="https://img.shields.io/badge/Ask_DeepWiki-000?logo=github" alt="Ask DeepWiki"></a>
     <a href="https://docs.autoinvestment.broker/"><img src="https://img.shields.io/badge/Docs-blue?logo=ReadTheDocs&logoColor=white" alt="Documentation" /></a>
@@ -60,7 +60,7 @@
 <br />
     <br />
     <a href="https://github.com/OpenSourceAGI/rights-institute">
-    <img  src="https://i.imgur.com/AVUs7Tx.png" /></a>
+    <img  src="https://i.imgur.com/gOSKlkp.png" /></a>
     <br />
   <a href="https://doi.org/10.5281/zenodo.20676952"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.20676952.svg" alt="DOI"></a>
  <a href="https://deepwiki.com/opensourceagi/rights-institute"><img src="https://img.shields.io/badge/Ask_DeepWiki-000?logo=github" alt="Ask DeepWiki"></a>
@@ -83,7 +83,7 @@
     <br />
     <br />
     <a href="https://github.com/OpenSourceAGI/GRAB-URL">
-        <img width="750px" src="https://i.imgur.com/HVLYLqR.png" /></a><br />
+        <img width="750px" src="https://i.imgur.com/7TkzXIL.png" /></a><br />
     <a href="https://deepwiki.com/OpenSourceAGI/GRAB-URL"><img src="https://img.shields.io/badge/Ask_DeepWiki-000?logo=github" alt="Ask DeepWiki" /></a>
     <a href="https://grab.js.org"><img src="https://img.shields.io/badge/Docs-blue?logo=ReadTheDocs&logoColor=white" alt="Documentation" /></a>
     <a href="https://stackblitz.com/github/OpenSourceAGI/GRAB-URL/tree/master/examples/basic-request"><img height="20px" src="https://developer.stackblitz.com/img/open_in_stackblitz.svg" alt="Open in StackBlitz" /></a>
@@ -111,7 +111,7 @@
     <br />
     <br />
     <a href="https://github.com/OpenSourceAGI/dev-tools-starter-agent">
-    <img  src="https://i.imgur.com/QL2mfLO.png" /></a>
+    <img  src="https://i.imgur.com/lwqinaS.png" /></a>
         <br />
     <a href="https://deepwiki.com/OpenSourceAGI/dev-tools-starter-agent"><img src="https://img.shields.io/badge/Ask_DeepWiki-000?logo=github" alt="Ask DeepWiki" /></a>
     <a href="https://starterdocs.vtempest.workers.dev"><img height="20px" src="https://img.shields.io/badge/App-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
