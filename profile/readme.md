@@ -34,30 +34,45 @@
     <a href="https://github.com/OpenSourceAGI/ai-broker-investing-agent">
     <img src="https://i.imgur.com/vjoiEdl.png"  width="750px" /></a>
 <br />
-    <a href="https://deepwiki.com/OpenSourceAGI/ai-broker-investing-agent"><img src="https://img.shields.io/badge/Ask_DeepWiki-000?logo=github" alt="Ask DeepWiki"></a>
-    <a href="https://docs.autoinvestment.broker/"><img src="https://img.shields.io/badge/Docs-blue?logo=ReadTheDocs&logoColor=white" alt="Documentation" /></a>
-    <a href="https://autoinvestment.broker/api/docs"><img src="https://img.shields.io/badge/API-blue?logo=fastapi&logoColor=white" alt="API badge"></a>
-    <a href="https://autoinvestment.broker" target="_blank" rel="noopener noreferrer"><img height="20px" src="https://img.shields.io/badge/Website-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-    <a href="https://deploy.workers.cloudflare.com/?url=https://github.com/OpenSourceAGI/ai-broker-investing-agent" target="_blank" rel="noopener noreferrer"><img height="24px" src="https://deploy.workers.cloudflare.com/button" alt="Deploy to Cloudflare Workers" /></a>
-    <a href="https://github.com/OpenSourceAGI/ai-broker-investing-agent/stargazers"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/OpenSourceAGI/ai-broker-investing-agent" /></a>
-<br />
-    <a href="https://github.com/OpenSourceAGI/ai-broker-investing-agent/graphs/contributors" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/OpenSourceAGI/ai-broker-investing-agent" /></a>
+    <a href="https://doi.org/10.5281/zenodo.20836179"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.20836179.svg" alt="DOI"></a>
+    <a href="https://deepwiki.com/OpenSourceAGI/ai-broker-investing-agent"><img src="https://img.shields.io/badge/Ask_DeepWiki-000?logo=github" alt="Ask DeepWiki" /></a>
+    <a href="https://autoinvestment.broker"><img height="20px" src="https://img.shields.io/badge/App-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+    <a href="https://autoinvestment.broker/docs"><img src="https://img.shields.io/badge/Docs-blue?logo=ReadTheDocs&logoColor=white" alt="Documentation" /></a>
+    <a href="https://autoinvestment.broker/api"><img src="https://img.shields.io/badge/API-blue?logo=fastapi&logoColor=white" alt="API" /></a>
+    <a href="https://drive.google.com/file/d/1VIgfZAtn9rVyXs8pSx2xhMWDqYolH_zm/view?usp=drive_link">
+      <img
+        src="https://img.shields.io/badge/%F0%9F%96%BC%EF%B8%8F_Pitch_Deck-DB2777?style=for-the-badge"
+        alt="Pitch Deck"
+        height="20px" />
+    </a>
+    <br />
+    <a href="https://github.com/OpenSourceAGI/ai-broker-investing-agent/stargazers"><img src="https://img.shields.io/github/stars/OpenSourceAGI/ai-broker-investing-agent" alt="GitHub Stars" /></a>
+    <a href="https://www.npmjs.com/package/investing"><img src="https://img.shields.io/npm/dm/investing.svg" alt="NPM Monthly Downloads" /></a>
+    <a href="https://www.npmjs.com/package/investing"><img src="https://img.shields.io/npm/v/investing.svg" alt="npm version" /></a>
+    <a href="https://www.npmjs.com/package/investing"><img src="https://img.shields.io/npm/dt/investing.svg" alt="NPM Total Downloads" /></a>
+    <a href="https://codecov.io/gh/OpenSourceAGI/ai-broker-investing-agent"><img src="https://codecov.io/gh/OpenSourceAGI/ai-broker-investing-agent/graph/badge.svg" alt="Coverage" /></a>
+    <a href="https://github.com/OpenSourceAGI/ai-broker-investing-agent/actions/workflows/test.yml"><img src="https://github.com/OpenSourceAGI/ai-broker-investing-agent/actions/workflows/test.yml/badge.svg?branch=main" alt="CI status" /></a>
+    <img src="https://img.shields.io/badge/%EB%AA%A8%20lines-28k-yellow" />
+    <br />
+    <a href="https://github.com/OpenSourceAGI/ai-broker-investing-agent/graphs/contributors"><img src="https://img.shields.io/github/contributors/OpenSourceAGI/ai-broker-investing-agent" alt="Contributors" /></a>
+    <a href="https://github.com/OpenSourceAGI/ai-broker-investing-agent/branches"><img src="https://img.shields.io/github/branches/OpenSourceAGI/ai-broker-investing-agent.svg" alt="Branches" /></a>
+    <a href="https://github.com/OpenSourceAGI/ai-broker-investing-agent/forks"><img src="https://img.shields.io/github/forks/OpenSourceAGI/ai-broker-investing-agent" alt="GitHub Forks" /></a>
+    <a href="https://github.com/OpenSourceAGI/ai-broker-investing-agent/issues"><img src="https://img.shields.io/github/issues/OpenSourceAGI/ai-broker-investing-agent?logo=github" alt="GitHub Issues" /></a>
+    <a href="https://github.com/OpenSourceAGI/ai-broker-investing-agent/pulls"><img src="https://img.shields.io/github/issues-pr/OpenSourceAGI/ai-broker-investing-agent?logo=github&label=PRs" alt="Open Pull Requests" /></a>
+    <a href="https://github.com/OpenSourceAGI/ai-broker-investing-agent/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed/OpenSourceAGI/ai-broker-investing-agent?logo=github&label=PRs%20merged&color=8957e5" alt="Merged Pull Requests" /></a>
+    <a href="https://github.com/OpenSourceAGI/ai-broker-investing-agent/discussions"><img src="https://img.shields.io/github/discussions/OpenSourceAGI/ai-broker-investing-agent" alt="GitHub Discussions" /></a>
+    <br/>
+    <a href="https://github.com/OpenSourceAGI/ai-broker-investing-agent/graphs/contributors"><img src="https://img.shields.io/github/commit-activity/m/OpenSourceAGI/ai-broker-investing-agent" alt="Commit activity" /></a>
     <a href="https://github.com/OpenSourceAGI/ai-broker-investing-agent/commits/main/"><img src="https://img.shields.io/github/last-commit/OpenSourceAGI/ai-broker-investing-agent.svg" alt="GitHub last commit" /></a>
-    <a href="https://app.codecov.io/gh/OpenSourceAGI/ai-broker-investing-agent"><img src="https://codecov.io/gh/OpenSourceAGI/ai-broker-investing-agent/branch/main/graph/badge.svg" alt="Coverage" /></a>
-   <a href="https://app.codecov.io/gh/OpenSourceAGI/ai-broker-investing-agent"><img src="https://img.shields.io/badge/%EB%AA%A8%20lines-28k-yellow" /></a>
-    <a href="https://github.com/OpenSourceAGI/ai-broker-investing-agent/actions/workflows/test.yml"><img src="https://github.com/OpenSourceAGI/ai-broker-investing-agent/actions/workflows/test.yml/badge.svg" alt="Tests" /></a>
-    <a href="https://github.com/OpenSourceAGI/ai-broker-investing-agent/discussions"><img alt="GitHub Discussions" src="https://img.shields.io/github/discussions/OpenSourceAGI/ai-broker-investing-agent" /></a>
-<br />
     <a href="https://discord.gg/SJdBqBz3tV"><img src="https://img.shields.io/discord/1110227955554209923.svg?label=Chat&logo=Discord&colorB=7289da&style=flat" alt="Join Discord" /></a>
-    <a href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" /></a>
-<img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff" alt="Claude AI"> <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white" alt="Cloudflare"> <img src="https://img.shields.io/badge/Next.js-black" alt="Next.js" /> <a href="https://grab.js.org"><img src="https://img.shields.io/badge/%F0%9F%91%8F%20grab--url-beige" alt="grab.js.org" /></a>
-<br />
-    <a href="https://alpaca.markets/"><img src="https://img.shields.io/badge/📈_Alpaca_Trading-2ea44f?style=for-the-badge" alt="Alpaca Broker"></a>
-    <a href="https://polymarketanalytics.com/"><img src="https://img.shields.io/badge/🎯_Polymarket-informational?style=for-the-badge" alt="Polymarket"></a>
-    <a href="https://www.tradingview.com/ideas/"><img src="https://img.shields.io/badge/📊_TradingView-131722?style=for-the-badge&logo=tradingview&logoColor=white" alt="TradingView"></a>
-<br />
-    <a href="https://play.google.com/store/apps/details?id=com.autoinvestment.broker.app"><img src="apps/ai-broker-web/public/images/download-google-play.png" alt="Get it on Google Play" height="60" /></a>
-<br />
+    <br />    
+    <a href="https://stats.uptimerobot.com/lwSHnzMtDL/803967180"><img src="https://img.shields.io/badge/Uptime--Status-brightgreen?logo=uptimerobot&logoColor=white" alt="Uptime Status" /></a>
+    <a href="https://deploy.workers.cloudflare.com/?url=https://github.com/OpenSourceAGI/ai-broker-investing-agent"><img height="24px" src="https://deploy.workers.cloudflare.com/button" alt="Deploy to Cloudflare Workers" /></a>
+    <a href="https://stackblitz.com/github/OpenSourceAGI/ai-broker-investing-agent/tree/main/packages/investing"><img height="20px" src="https://developer.stackblitz.com/img/open_in_stackblitz.svg" alt="Open in StackBlitz" /></a>
+    <a href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request"><img src="https://img.shields.io/badge/PRs--welcome-brightgreen" alt="PRs Welcome" /></a>
+    <img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white" alt="Claude" /> <img src="https://img.shields.io/badge/Bun-14151A?logo=bun&logoColor=white" alt="Bun" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Next.js-black?logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?logo=cloudflareworkers&logoColor=white" alt="Cloudflare Workers" /> 
+    <br/>
+    <a href="https://play.google.com/store/apps/details?id=com.autoinvestment.broker.app"><img src="https://i.imgur.com/XIvlsVv.png" alt="Get it on Google Play" height="60" /></a>
     <br />
     <a href="https://github.com/OpenSourceAGI/rights-institute">
     <img  src="https://i.imgur.com/gOSKlkp.png" /></a>
